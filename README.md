@@ -1,7 +1,3 @@
-Sure! Here's a draft for your README file:
-
----
-
 # Spaceship Titanic - Kaggle Competition
 
 Welcome to my submission for the Kaggle Spaceship Titanic competition! This project aims to predict which passengers were transported to an alternate dimension during the Spaceship Titanic disaster using machine learning techniques.
@@ -33,3 +29,5 @@ The Spaceship Titanic competition is a binary classification problem where the g
 ## Conclusion
 
 This project demonstrates the application of various machine learning techniques to solve a binary classification problem. The final model aims to achieve high accuracy and generalizability, contributing to the overall goal of the Kaggle competition.
+
+i have also uploaded my submission on kaggle. score : 0.795
